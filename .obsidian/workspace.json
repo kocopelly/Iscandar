@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49c7663054665d83",
+        "id": "c6957a784f707ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "e36a8ac7859b9660",
+            "id": "2b89f9ac05f22085",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scratch Notes/GPT/Factions.md",
+                "file": "3. The Party/3. The Party.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Scratch Notes/GPT/Factions.md",
+                "file": "3. The Party/3. The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Scratch Notes/GPT/Factions.md",
+                "file": "3. The Party/3. The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Scratch Notes/GPT/Factions.md"
+                "file": "3. The Party/3. The Party.md"
               }
             }
           },
@@ -180,8 +180,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e36a8ac7859b9660",
+  "active": "2b89f9ac05f22085",
   "lastOpenFiles": [
+    "1. DM Screen/1. DM Screen.md",
+    "3. The Party/3. The Party.md",
+    "3. The Party",
+    "Untitled.md",
+    "1. DM Screen",
+    "Echolalia Prime.md",
+    "2. Scratch Notes/GPT/Factions.md",
     "2. Scratch Notes/GPT/Cities.md",
     "6. Lore/Factions/Emberhold Mining Consortium/Emberhold Mining Consortium.md",
     "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Windspire/Windspire.md",
@@ -209,7 +216,6 @@
     "z_Assets/Generations/technohermits_symbol.jpg",
     "z_Templates/4_KJ Templates/infobox-faction.md",
     "6. Lore/Factions/Technohermits",
-    "2. Scratch Notes/GPT/Factions.md",
     "4. The Campaign/0. Introduction/Backstory/Spirituality.md",
     "4. The Campaign/0. Introduction/Backstory/Factions.md",
     "5. World Almanac/0. Material Plane/Iscandar/3. Cinderspire Expanse/Cinderforge/Cinderforge.md",
@@ -217,16 +223,10 @@
     "6. Lore/Factions/Stormseekers/Stormseekers.md",
     "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table.md",
     "z_Templates/4_KJ Templates",
-    "z_Templates/3_Markdown/Obsidian Markdown Formatting.md",
-    "z_Templates/3_Markdown/Indent Paragraph.md",
-    "7. Mechanics/Spells/5eSpells/Acid Arrow.md",
-    "6. Lore/Factions/Stormbreak Alliance/Stormbreak Alliance.md",
     "6. Lore/Factions/Stormseekers",
     "z_Assets/Generations/cinders_hollow,jpg",
     "z_Assets/Generations/moonlight_marsh,jpg",
     "z_Assets/Generations/moonlight_marsh",
-    "z_Assets/Generations/highlake_council",
-    "6. Lore/Factions/Highlake Council",
-    "6. Lore/Factions/Emberhold Mining Consortium"
+    "z_Assets/Generations/highlake_council"
   ]
 }
