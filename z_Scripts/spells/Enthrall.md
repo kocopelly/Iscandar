@@ -1,0 +1,31 @@
+---
+casting_time: 1 action
+classes:
+- Bard
+- Warlock
+components: V, S
+concentration: false
+description: "You weave a distracting string of words, causing creatures of your choice\
+    \ that you can see within range and that can hear you to make a Wisdom saving\
+    \ throw. Any creature that can\u2019t be charmed succeeds on this saving throw\
+    \ automatically, and if you or your companions are fighting a creature, it has\
+    \ advantage on the save. On a failed save, the target has disadvantage on Wisdom\
+    \ (Perception) checks made to perceive any creature other than you until the spell\
+    \ ends or until the target can no longer hear you. The spell ends if you are incapacitated\
+    \ or can no longer speak."
+duration: 1 minute
+level: 2
+name: Enthrall
+range: 60 feet
+ritual: false
+school: enchantment
+short_description: 2nd-level enchantment
+source: 5ePHB
+---
+
+| `=this.name` | `=this.short_description` |
+| ------------ | ------------------------- |
+| Classes      | `=this.classes`           |
+| Components   | `=this.components`        |
+| Duration     | `=this.duration`          |
+| Description  | `=this.description`       |

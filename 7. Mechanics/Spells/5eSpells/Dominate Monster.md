@@ -1,0 +1,44 @@
+---
+casting_time: 1 action
+classes:
+- Bard
+- Sorcerer
+- Warlock
+- Wizard
+components: V, S
+concentration: true
+description: "You attempt to beguile a creature that you can see within range. It\
+    \ must succeed on a Wisdom saving throw or be charmed by you for the duration.\
+    \ If you or creatures that are friendly to you are fighting it, it has advantage\
+    \ on the saving throw.\nWhile the creature is charmed, you have a telepathic link\
+    \ with it as long as the two of you are on the same plane of existence. You can\
+    \ use this telepathic link to issue commands to the creature while you are conscious\
+    \ (no action required), which it does its best to obey. You can specify a simple\
+    \ and general course of action, such as \u201CAttack that creature,\u201D \u201C\
+    Run over there,\u201D or \u201CFetch that object.\u201D If the creature completes\
+    \ the order and doesn\u2019t receive further direction from you, it defends and\
+    \ preserves itself to the best of its ability.\nYou can use your action to take\
+    \ total and precise control of the target. Until the end of your next turn, the\
+    \ creature takes only the actions you choose, and doesn\u2019t do anything that\
+    \ you don\u2019t allow it to do. During this time, you can also cause the creature\
+    \ to use a reaction, but this requires you to use your own reaction as well.\n\
+    Each time the target takes damage, it makes a new Wisdom saving throw against\
+    \ the spell. If the saving throw succeeds, the spell ends.\n**At Higher Levels.**\
+    \ When you cast this spell with a 9th-level spell slot, the duration is concentration,\
+    \ up to 8 hours."
+duration: Concentration, up to 1 hour
+level: 8
+name: Dominate Monster
+range: 60 feet
+ritual: false
+school: enchantment
+short_description: 8th-level enchantment
+source: 5ePHB
+---
+
+| `=this.name` | `=this.short_description` |
+| ------------ | ------------------------- |
+| Classes      | `=this.classes`           |
+| Components   | `=this.components`        |
+| Duration     | `=this.duration`          |
+| Description  | `=this.description`       |
