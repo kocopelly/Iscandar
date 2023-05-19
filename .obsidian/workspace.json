@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Factions/Waverunners/Waverunners.md",
-                "mode": "preview",
+                "file": "3. The Party/Untitled.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore/Factions/Waverunners/Waverunners.md",
+                "file": "3. The Party/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore/Factions/Waverunners/Waverunners.md",
+                "file": "3. The Party/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Lore/Factions/Waverunners/Waverunners.md"
+                "file": "3. The Party/Untitled.md"
               }
             }
           },
@@ -182,6 +182,9 @@
   },
   "active": "2b89f9ac05f22085",
   "lastOpenFiles": [
+    "3. The Party/3. The Party.md",
+    "3. The Party/Untitled.md",
+    "6. Lore/Factions/Waverunners/Waverunners.md",
     "z_Assets/Generations/waverunners2.jpg",
     "z_Assets/Generations/waverunners.jpg",
     "6. Lore/Factions/Serpent's Crest Guild/Serpent's Crest Guild.md",
@@ -202,7 +205,6 @@
     "z_Assets/Generations/harmonic_choir.jpg",
     "6. Lore/Factions/Azure Current",
     "6. Lore/Factions/Serpent's Crest Guild",
-    "6. Lore/Factions/Waverunners/Waverunners.md",
     "6. Lore/Factions/Seatalon Mariner's Guild",
     "6. Lore/Factions/Thornbriar Herbalists/Thornbriar Herbalists.md",
     "6. Lore/Factions/Waverunners",
@@ -221,10 +223,8 @@
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Sirencall/Sirencall.md",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Seatalon/Seatalon.md",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidewhisper Shores.md",
-    "z_Assets/Generations/thornbriar.jpg",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Driftwood Villages/Driftwood Villages.md",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Channel Rest/Channel Rest.md",
-    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Azurehaven/Azurehaven.md",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Channel Rest",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Thornbriar",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Driftwood Villages"
