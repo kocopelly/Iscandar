@@ -1,5 +1,8 @@
 ---
 banner: "![[Iscandar_Banner.jpg]]"
+---
+---
+banner: "![[Iscandar_Banner.jpg]]"
 banner_y: 0.576
 ---
 > [!infobox]

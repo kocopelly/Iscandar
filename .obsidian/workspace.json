@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/3. The Party.md",
-                "mode": "source",
+                "file": "6. Lore/Factions/Waverunners/Waverunners.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. The Party/3. The Party.md",
+                "file": "6. Lore/Factions/Waverunners/Waverunners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. The Party/3. The Party.md",
+                "file": "6. Lore/Factions/Waverunners/Waverunners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/3. The Party.md"
+                "file": "6. Lore/Factions/Waverunners/Waverunners.md"
               }
             }
           },
@@ -182,51 +182,51 @@
   },
   "active": "2b89f9ac05f22085",
   "lastOpenFiles": [
-    "1. DM Screen/1. DM Screen.md",
-    "3. The Party/3. The Party.md",
-    "3. The Party",
-    "Untitled.md",
-    "1. DM Screen",
-    "Echolalia Prime.md",
-    "2. Scratch Notes/GPT/Factions.md",
-    "2. Scratch Notes/GPT/Cities.md",
-    "6. Lore/Factions/Emberhold Mining Consortium/Emberhold Mining Consortium.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Windspire/Windspire.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Untitled.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Thunderfall/Thunderfall.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Stormwatch/Stormwatch.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Squall's End/Squall's End.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Galecrest/Galecrest.md",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Icestorm Cradle/Icestorm Cradle.md",
-    "z_Assets/Generations/icestorm_cradle.jpg",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Wastegale/Wastegale.md",
-    "z_Assets/Generations/wastegale.jpg",
-    "z_Assets/Generations/squalls_end.jpg",
-    "5. World Almanac/0. Material Plane/Iscandar/1. Stormhaven Region/1. Stormhaven Plateau/Zephyr's Rest/Zephyr's Rest.md",
-    "z_Assets/Generations/zephyrs_rest.jpg",
-    "z_Assets/Generations/stormwatch.jpg",
-    "z_Assets/Generations/galecrest.jpg",
-    "z_Templates/4_KJ Templates/infobox-settlement.md",
-    "z_Assets/Generations/windspire.jpg",
-    "z_Assets/Generations/cinderspire.jpg",
-    "z_Assets/Generations/thunderfall.jpg",
-    "6. Lore/Factions/Technohermits/Technohermits.md",
-    "5. World Almanac/0. Material Plane/Iscandar/3. Cinderspire Expanse/Ironrest/Ironrest.md",
-    "6. Lore/Factions/GPT.md",
-    "z_Assets/Generations/technohermits_symbol.jpg",
-    "z_Templates/4_KJ Templates/infobox-faction.md",
-    "6. Lore/Factions/Technohermits",
-    "4. The Campaign/0. Introduction/Backstory/Spirituality.md",
-    "4. The Campaign/0. Introduction/Backstory/Factions.md",
-    "5. World Almanac/0. Material Plane/Iscandar/3. Cinderspire Expanse/Cinderforge/Cinderforge.md",
-    "2. Scratch Notes/GPT",
+    "z_Assets/Generations/waverunners2.jpg",
+    "z_Assets/Generations/waverunners.jpg",
+    "6. Lore/Factions/Serpent's Crest Guild/Serpent's Crest Guild.md",
+    "6. Lore/Factions/Seatalon Mariner's Guild/Seatalon Mariner's Guild.md",
+    "6. Lore/Races/Sauromorphs/Sauromorphs.md",
     "6. Lore/Factions/Stormseekers/Stormseekers.md",
-    "z_Templates/3_Markdown/Insert Rollable Table/Insert Rollable Table.md",
-    "z_Templates/4_KJ Templates",
-    "6. Lore/Factions/Stormseekers",
-    "z_Assets/Generations/cinders_hollow,jpg",
-    "z_Assets/Generations/moonlight_marsh,jpg",
-    "z_Assets/Generations/moonlight_marsh",
-    "z_Assets/Generations/highlake_council"
+    "z_Assets/Generations/scg.jpg",
+    "z_Assets/Generations/stmg.jpg",
+    "6. Lore/Factions/Azure Current/Azure Current.md",
+    "z_Assets/Generations/azure_current.jpg",
+    "6. Lore/Factions/Nacre Seekers/Nacre Seekers.md",
+    "z_Assets/Generations/nacre_seekers_symbol.jpg",
+    "z_Assets/Generations/nacre_seekers.jpg",
+    "6. Lore/Civilizations/Saurians/Saurians.md",
+    "6. Lore/Civilizations/Nexus of Echolalia/Nexus of Echolalia.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidereach/Tidereach.md",
+    "6. Lore/Factions/Harmonic Choir/Harmonic Choir.md",
+    "z_Assets/Generations/harmonic_choir.jpg",
+    "6. Lore/Factions/Azure Current",
+    "6. Lore/Factions/Serpent's Crest Guild",
+    "6. Lore/Factions/Waverunners/Waverunners.md",
+    "6. Lore/Factions/Seatalon Mariner's Guild",
+    "6. Lore/Factions/Thornbriar Herbalists/Thornbriar Herbalists.md",
+    "6. Lore/Factions/Waverunners",
+    "6. Lore/Factions/Factions.md",
+    "6. Lore/Factions/Thornbriar Herbalists",
+    "6. Lore/Factions/Nacre Seekers",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidesong Village/Tidesong Village.md",
+    "6. Lore/Factions/Harmonic Choir",
+    "2. Scratch Notes/GPT/Factions.md",
+    "z_Assets/Generations/tidesong_village.jpg",
+    "4. The Campaign/0. Introduction/Backstory/Meta/Meta.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Iscandar.md",
+    "z_Assets/Generations/tidereach.jpg",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Saltmarsh/Saltmarsh.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Thornbriar/Thornbriar.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Sirencall/Sirencall.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Seatalon/Seatalon.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidewhisper Shores.md",
+    "z_Assets/Generations/thornbriar.jpg",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Driftwood Villages/Driftwood Villages.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Channel Rest/Channel Rest.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Azurehaven/Azurehaven.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Channel Rest",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Thornbriar",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Driftwood Villages"
   ]
 }

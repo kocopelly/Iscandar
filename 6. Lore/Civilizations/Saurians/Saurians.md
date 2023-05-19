@@ -1,4 +1,5 @@
 ---
+banner: "![[Saurian_Cityscape.jpg]]"
 type: Civilization
 tags: [Saurians, Advanced Technology, Genetic Engineering, Cybernetics, Dragons, Iscandar]
 parent: [[Backstory]]
@@ -21,10 +22,11 @@ banner_y: 0.787
 # Saurian Civilization
 ## Origins
 >[!column| no-t]
->The Saurians originated from the lush, tropical world of [[Sauria]], a planet blessed with vast oceans, towering mountains, and sprawling jungles teeming with life. Their society thrived in harmony with nature until the discovery of advanced technology, which ushered in an era of unprecedented growth and development. 
->This transformative period in their history saw the advent of genetic engineering and cybernetics, allowing the Saurians to manipulate their own genetics. They created [[Sauromorphs|genomorphs]], distinct sub-species tailored for specific roles within society. The most profound of these enhancements were undertaken by the select few who became Dragons - Saurians who had undergone radical genetic and cybernetic enhancements to become beings of immense power.
+>The Saurians, an ancient reptilian civilization, originated from the lush and tropical world of Sauria. This planet, blessed with vast oceans, towering mountains, and sprawling jungles teeming with life, served as their ancestral home. For eons, they thrived in symbiotic harmony with the natural world, cherishing the wonders it offered. 
+><br>However, a pivotal turning point came when the Saurians unlocked the secrets of advanced technology. This momentous discovery ushered in an era of unprecedented growth and development. Within this transformative phase of their history, the Saurians delved into the realm of genetic engineering and cybernetics, wielding these scientific disciplines to shape their own biology.
 >
->The Saurians harnessed the energy of their sun, powering their vast cities and technological wonders. As they evolved alongside their technology, a philosophical belief known as the [[Triad]] emerged. Representing the balance of Synthesis, Analysis, and Praxis, the Triad was at the heart of Saurian society. 
+>Among the varied genomorphs created to fulfill specific roles within society, the Dragons emerged as the pinnacle of these enhancements. Through radical genetic and cybernetic modifications, a select few Saurians were transformed into majestic and formidable beings. Dragons possessed immense power and stood as testaments to the Saurians' mastery of their own genetics.
+><br>Harnessing the boundless energy of their sun, the Saurians powered their sprawling cities and awe-inspiring technological wonders. As their civilization evolved alongside their technological advancements, a profound philosophical belief known as the Triad took root. At the heart of Saurian society, the Triad represented the delicate balance between Synthesis, Analysis, and Praxis. It guided their cultural, scientific, and technological endeavors, shaping the very fabric of their existence.
 ## Technology 
 1.  **Biotechnology:** This is a key area of Saurian advancement, allowing them to alter their genetic structure and create genomorphs. Saurians have developed advanced gene-editing tools, synthetic biology, and bioinformatics.
     

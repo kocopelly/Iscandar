@@ -1,4 +1,5 @@
 ---
+banner: "![[Iscandar_Banner.jpg]]"
 type: Backstory
 tags: [Campaign, Iscandar, Science Fantasy, Dark Fantasy]
 banner: "![[Iscandar_Banner.jpg]]"

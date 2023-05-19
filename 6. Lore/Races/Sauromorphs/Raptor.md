@@ -2,6 +2,8 @@
 type: Race
 tags: [Saurian, Raptor, Genomorph]
 parent: [[Saurians]]
+origin_planet: Sauria
+origin_civilization: Saurians
 ---
 > [!infobox]
 > # Raptor
