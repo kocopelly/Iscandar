@@ -1,4 +1,5 @@
 ---
+banner: "![[technohermits.jpg]]"
 name: Technohermits
 type: Faction
 tags: [Technology, Isolationist, Knowledge Keepers]

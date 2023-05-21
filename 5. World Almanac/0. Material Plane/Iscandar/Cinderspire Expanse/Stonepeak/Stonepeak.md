@@ -10,14 +10,14 @@ parent: [[Cinderspire Expanse]]
 > | Traits         | Description                                                                                                                           |
 > | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 > | **Type** | City |
-> | **Location** | Cinderspire Expanse |
+> | **Location** | [[Cinderspire Expanse]] |
 > | **Population** | Approximately 45,000 |
 > | **Governance** | Council of Mining Barons |
 > | **Specializations** | Mining, Gem Crafting, Geological Research |
 > | **Defenses** | Natural mountainous terrain, City Guard |
 # Stonepeak
 
-Stonepeak is a city of industry and intellectual pursuit, carved into the highest point in the Expanse. Its towering spires and intricately carved edifices are a testament to the hard work and craftsmanship of its inhabitants.
+Stonepeak is a city of industry and intellectual pursuit, carved into the highest point in the [[Cinderspire Expanse]]. Its towering spires and intricately carved edifices are a testament to the hard work and craftsmanship of its inhabitants.
 
 ## Industry and Innovation
 

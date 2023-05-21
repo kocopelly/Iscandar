@@ -17,7 +17,7 @@ parent: [[Cinderspire Expanse]]
 > | **Main Area of Operation** | Cinderspire Expanse |
 > | **Allies** | Sympathizers of Pyrothar's rule |
 > | **Enemies** | Emberhold Council and other factions supporting democratic governance |
-> | **Symbol** | A dragon encircling a mountain |
+> | **Symbol** | A dragon encircling a mountain<br>![[draconic_vanguard_symbol.jpg]] |
 # Draconic Vanguard
 
 The Draconic Vanguard are the remnants of Pyrothar's most loyal followers, who refuse to abandon the legacy of their once-mighty ruler. They are not content with mere religious observance or quiet reverence for the dragon—instead, they actively seek to return the Expanse to draconic rule.

@@ -18,7 +18,7 @@ associated: [[[Underminers]], [[Iron Guild]]]
 > | **Defenses** | Miner Militia |
 # Gritstone
 
-Gritstone is a mining town located in a rocky outcrop of the [[3. Cinderspire Expanse|Cinderspire Expanse]]. Its lifeblood is the valuable ores extracted from the surrounding hills.
+Gritstone is a mining town located in a rocky outcrop of the [[Cinderspire Expanse]]. Its lifeblood is the valuable ores extracted from the surrounding hills.
 
 ## Community and Economy
 
