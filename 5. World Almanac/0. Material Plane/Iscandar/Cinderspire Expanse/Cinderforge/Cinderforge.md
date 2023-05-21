@@ -9,12 +9,12 @@ government: Autocracy (Blazeborn Dynasty)
 location: In the heart of the Cinderspire Expanse, near Pyrothars Keep
 population: Approximately 100,000
 races: [Humans, Dwarves, Dragonborn]
-leader: Blazelord Mykos
+leader: "[[Blazelord Mykos]]"
 controlling_faction: Blazeborn Dynasty
 factions: [Blazeborn Dynasty, Emberhold Council, Emberhold Mining Consortium, Draconic Vanguard, Underminers, Stormbreak Alliance, Iron Guild, Highlake Council, Forgeborn Collective, Emberstone Society, Cinder Scribes]
-continent: Emberstone Expnse
+continent: Cinderspire Expanse
 religions: [Pyroclastic Order]
-enemies: [Emberhold Council, Underminers]
+enemies: ["[[Emberhold Council]]", "[[Underminers]]"]
 ---
 > [!infobox]
 > # `=this.name`
@@ -50,12 +50,6 @@ The [[Emberhold Mining Consortium]] and the [[Stormbreak Alliance]] represent tw
 
 The city is also under threat from external forces. The specter of Pyrothar's return looms large, while bandits and criminals once held at bay by the dragon's rule now pose a constant danger. This ongoing strife and uncertainty shape Cinderforge's climate, making it a city teetering on the edge of a knife.
 
-## Districts and Economic Divisions
-
-Cinderforge is divided into districts, each reflecting the economic disparity of its inhabitants. The wealthy District of Embers, at the city's heart, houses the city's nobility and affluent individuals. Here, grand manors and opulent establishments stand in stark contrast to the city's poorer districts like the Ashen Quarters, where miners and laborers reside in overcrowded, subpar conditions.
-
-The control over resources and wealth has led to political maneuvering and power plays, with factions like the Emberhold Mining Consortium gaining influence. The Underminers find significant support in the poorer districts, with many residents seeing them as the only hope for improved living conditions and fair treatment.
-
 ## Governance and Major Factions
 
 >[!column|no-t] 
@@ -65,6 +59,50 @@ The control over resources and wealth has led to political maneuvering and power
 >The Emberhold Council acts as a counterbalance to the Blazeborn Dynasty, advocating for a more meritocratic and knowledge-based society. Although originally a diverse political entity, the council's current leadership, comprised of industry magnate [[Gallus Giltroot]] and scholarly philanthropist [[Zephyra Quill]], promotes economic development and education reform respectively. The council's influence and reputation vary among the population, as their progressive ideals often clash with traditionalist views. 
 >
 >**[[Emberhold Mining Consortium]]** 
->The Emberhold Mining Consortium, led by [[Gallus Giltroot]], is a powerful economic entity in Cinderforge. Giltroot's inventive extraction methods revolutionized the mining industry, propelling the Consortium to the forefront of the city's economic scene. Although they're a major employer and a significant part of the city's wealth, their harsh working conditions and ecological disregard have earned them many enemies, especially among the city's laborers and environmentalists. <br><br><br>
+>The Emberhold Mining Consortium, led by [[Gallus Giltroot]], is a powerful economic entity in Cinderforge. Giltroot's inventive extraction methods revolutionized the mining industry, propelling the Consortium to the forefront of the city's economic scene. Although they're a major employer and a significant part of the city's wealth, their harsh working conditions and ecological disregard have earned them many enemies, especially among the city's laborers and environmentalists. <br><br><br><br>
 >**[[Underminers]]** 
 >An anarchistic organization, the Underminers, led by [[Dorik Hammerfall]], emerged as a response to the Consortium's ruthless business practices. Initially a peaceful protest movement formed by miners, the group has evolved into a more militant faction, advocating for workers' rights and challenging the city's existing power structures. Their decentralized organizational structure, secret bases in underground mines, and growing popularity among the city's working class make them a potent force of opposition and an unpredictable factor in Cinderforge's political landscape.
+
+## Districts and Economic Divisions
+
+Cinderforge is divided into districts, each reflecting the economic disparity of its inhabitants. The wealthy District of Embers, at the city's heart, houses the city's nobility and affluent individuals. Here, grand manors and opulent establishments stand in stark contrast to the city's poorer districts like the Ashen Quarters, where miners and laborers reside in overcrowded, subpar conditions.
+
+**District of Embers**
+The upper district, home to the noble families and the Blazeborn Dynasty. This area is enclosed by a fortified keep, featuring luxurious architecture set against the backdrop of the active volcano. It offers a breathtaking view of the Cinderspire Expanse.
+    
+**The Belly**
+The middle district, the city's industrial and commercial hub. Here you'll find foundries, workshops, markets, and trade houses nestled in the city's heart, with the constant plume of the volcano a reminder of the city's fiery spirit.
+    
+**Ashen Quarters**
+The lower district, houses the majority of Cinderforge's population. It's a dense, bustling warren of homes, taverns, inns, and small businesses. The people here are tough, living in the shadow of the volcano, and are the lifeblood of the city's industry.
+    
+**The Underforge**
+Beneath the city, an extensive network of tunnels and caverns that serve both as mines and a place for more clandestine activities.
+
+The control over resources and wealth has led to political maneuvering and power plays, with factions like the Emberhold Mining Consortium gaining influence. The Underminers find significant support in the poorer districts, with many residents seeing them as the only hope for improved living conditions and fair treatment
+
+## Landmarks 
+
+**Pyrothar’s Keep**
+Situated within the nearby active volcano, this grand structure was once home to the legendary Pyrothar. It's a marvel of ancient technology and arcane magic, now a heritage site maintained by the Draconic Vanguard and the Pyroclastic Order.
+    
+**The Great Foundry**
+The largest foundry in the city, this place is the heart of Cinderforge's industry, producing weapons and armor for the city and beyond.
+    
+**The Cinderforge Library**
+A testament to the pursuit of knowledge, this library was funded by Zephyra Quill. It's a repository of texts and records from across the Expanse, and a clandestine meeting place for the Emberhold Council.
+
+## Events and Festivals
+
+**Pyrothar's Remembrance**
+A day dedicated to honoring the contributions of Pyrothar. The event is marked by displays of magical and technological wonders, culminating in a fireworks display that lights up the night sky.
+    
+**The Cinder Games**
+A highly anticipated tournament featuring a series of thrilling competitions designed to test a warrior's mettle. Contests include the Coal Walk, a daring dash across a bed of fiery coals; Forge Strength, where competitors lift and carry heavy forge materials; and the Duel of Flames, a dangerous combat trial with weapons heated in the fires of the Great Foundry.
+    
+**Night of Embers**
+A celebration that marks the end of the harvest season. The city comes alive with lights from lanterns and bonfires, while people share stories and songs of the year gone by.
+    
+**[[Martyr's Night]]**
+A covert "holiday" known primarily to the Underminers and their sympathizers. This day commemorates the death of a well-known martyr, symbolizing resistance against the Emberhold Mining Consortium. Celebrated with secret gatherings and symbolic acts of defiance, this event serves as a reminder of the ongoing struggle against the Consortium.
+

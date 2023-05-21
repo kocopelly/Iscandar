@@ -4,58 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "44bac711ac27055a",
+        "id": "49c7663054665d83",
         "type": "tabs",
         "children": [
           {
-            "id": "e958c018b6b1006b",
+            "id": "e36a8ac7859b9660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Factions/Highlake Council/Highlake Council.md",
+                "file": "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "0dd4cae59ea47256",
+            "id": "a0b5072955391bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Lore/Factions/Factions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1c48a9d68595f064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Scratch Notes/GPT/Factions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f35ac01491e0f40b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Lore/Factions/Draconic Vanguard/Draconic Vanguard.md",
-                "mode": "source",
+                "file": "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Lore/Factions/Highlake Council/Highlake Council.md",
+                "file": "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Lore/Factions/Highlake Council/Highlake Council.md",
+                "file": "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Lore/Factions/Highlake Council/Highlake Council.md"
+                "file": "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md"
               }
             }
           },
@@ -216,53 +193,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e958c018b6b1006b",
+  "active": "a0b5072955391bd5",
   "lastOpenFiles": [
-    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Highlake/Highlake.md",
-    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md",
-    "6. Lore/Factions/Underminers/Underminers.md",
-    "6. Lore/Factions/Ashen Wardens/Ashen Wardens.md",
-    "z_Assets/Generations/hammer.jpg",
-    "6. Lore/Factions/Cinder Scribes/Cinder Scribes.md",
-    "6. Lore/Non Player Characters/Dorik Hammerfall.md",
-    "6. Lore/Non Player Characters/Gallus Giltroot.md",
-    "z_Templates/4_KJ Templates/infobox-NPC.md",
-    "z_Templates/4_KJ Templates/infobox-settlement.md",
-    "6. Lore/Factions/Blazeborn Dynasty/Blazeborn Dynasty.md",
-    "6. Lore/Factions/Emberhold Mining Consortium/Emberhold Mining Consortium.md",
-    "6. Lore/Factions/Emberhold Council/Emberhold Council.md",
-    "6. Lore/Non Player Characters/Professor Zephyra Quill.md",
-    "6. Lore/Non Player Characters/Blazelord Mykos.md",
-    "6. Lore/Factions/Waverunners/Waverunners.md",
-    "2. Scratch Notes/GPT/Factions.md",
-    "6. Lore/Factions/Factions.md",
-    "6. Lore/Factions/Draconic Vanguard/Draconic Vanguard.md",
     "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Crystalfire/Crystalfire.md",
-    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Stonepeak/Stonepeak.md",
-    "6. Lore/Factions/Forgeborn Collective/Forgeborn Collective.md",
-    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Ironrest/Ironrest.md",
-    "6. Lore/Factions/Stormbreak Alliance/Stormbreak Alliance.md",
-    "6. Lore/Factions/Iron Guild/Iron Guild.md",
-    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderspire Expanse.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderforge/Cinderforge.md",
     "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Fumehollow/Fumehollow.md",
-    "z_Assets/Generations/ObsidianWeapons.jpg",
-    "z_Assets/Generations/Behemoth.jpg",
-    "z_Assets/Generations/Empathos.jpg",
-    "z_Assets/Generations/Strategos.jpg",
-    "z_Assets/Generations/Serpentine.jpg",
-    "z_Assets/Generations/thornbriar_herbalists_symbol.jpg",
-    "z_Assets/Generations/draconic_vanguard_symbol.jpg",
-    "z_Assets/Generations/thornbriar_herbalists.jpg",
-    "z_Assets/Generations/waverunners2.jpg",
-    "6. Lore/Factions/Azure Current",
-    "6. Lore/Factions/Serpent's Crest Guild",
-    "6. Lore/Factions/Seatalon Mariner's Guild",
+    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Obsidian/Obsidian.md",
+    "6. Lore/Events/Martyr's Night.md",
+    "6. Lore/Factions/Highlake Council/Highlake Council.md",
+    "6. Lore/Factions/Draconic Vanguard/Draconic Vanguard.md",
+    "6. Lore/Factions/Emberhold Mining Consortium/Emberhold Mining Consortium.md",
+    "6. Lore/Factions/Azure Current/Azure Current.md",
+    "6. Lore/Factions/Ashen Wardens/Ashen Wardens.md",
+    "6. Lore/Factions/Seatalon Mariner's Guild/Seatalon Mariner's Guild.md",
+    "6. Lore/Factions/Saurian Legion/Saurian Legion.md",
+    "6. Lore/Factions/Nacre Seekers/Nacre Seekers.md",
+    "6. Lore/Governments/Council of Tides/Council of Tides.md",
+    "6. Lore/Governments/Storm Confederacy/Storm Confederacy.md",
+    "6. Lore/Non Player Characters/Dorik Hammerfall.md",
+    "6. Lore/Non Player Characters/Blazelord Mykos.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Cinderspire Expanse/Cinderspire Expanse.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Stormhaven Plateau/Stormhaven Plateau.md",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidewhisper Shores.md",
+    "6. Lore/Factions/Underminers/Underminers.md",
+    "6. Lore/Factions/Thornbriar Herbalists/Thornbriar Herbalists.md",
+    "2. Scratch Notes/GPT/Factions.md",
+    "6. Lore/Factions/Waverunners/Waverunners.md",
     "6. Lore/Factions/Waverunners",
     "6. Lore/Factions/Thornbriar Herbalists",
+    "6. Lore/Factions/Serpent's Crest Guild/Serpent's Crest Guild.md",
+    "6. Lore/Factions/Serpent's Crest Guild",
+    "6. Lore/Factions/Seatalon Mariner's Guild",
     "6. Lore/Factions/Nacre Seekers",
+    "6. Lore/Factions/Harmonic Choir/Harmonic Choir.md",
     "6. Lore/Factions/Harmonic Choir",
-    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Channel Rest",
+    "6. Lore/Factions/Azure Current",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidesong Village",
+    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Tidereach",
     "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Thornbriar",
-    "5. World Almanac/0. Material Plane/Iscandar/Tidewhisper Shores/Driftwood Villages"
+    "z_Assets/Generations/waverunners2.jpg",
+    "z_Assets/Generations/waverunners.jpg",
+    "z_Assets/Generations/tidesong_village.jpg",
+    "z_Assets/Generations/tidereach.jpg",
+    "z_Assets/Generations/thornbriar_herbalists_symbol.jpg",
+    "z_Assets/Generations/thornbriar_herbalists.jpg",
+    "z_Assets/Generations/thornbriar.jpg",
+    "z_Assets/Generations/stmg.jpg",
+    "z_Assets/Generations/sirencall.jpg",
+    "z_Assets/Generations/seatalon.jpg"
   ]
 }
